@@ -1,0 +1,16 @@
+order_id,product,category,amount,date
+1,Phone,Electronics,599,2023-06-01
+2,Laptop,Electronics,999,2023-06-01
+3,T-Shirt,Clothing,20,2023-06-01
+4,Phone,Electronics,599,2023-06-02
+5,Headphones,Electronics,150,2023-06-02
+6,T-Shirt,Clothing,22,2023-06-02
+7,Jeans,Clothing,40,2023-06-03
+8,Phone,Electronics,599,2023-06-03
+9,Tablet,Electronics,299,2023-06-03
+10,T-Shirt,Clothing,21,2023-06-03
+11,Laptop,Electronics,999,2023-06-04
+12,Headphones,Electronics,150,2023-06-04
+13,Jeans,Clothing,39,2023-06-04
+14,Phone,Electronics,599,2023-06-04
+15,T-Shirt,Clothing,25,2023-06-04

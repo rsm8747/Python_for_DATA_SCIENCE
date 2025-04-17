@@ -1,0 +1,11 @@
+movie_id,title,genre,user_id,rating,timestamp
+101,Inception,Sci-Fi,1,4.5,2022-06-01
+102,The Matrix,Sci-Fi,2,5.0,2022-06-02
+103,The Godfather,Crime,1,5.0,2022-06-03
+104,The Dark Knight,Action,3,4.7,2022-06-01
+105,Inception,Sci-Fi,2,4.0,2022-06-02
+106,The Godfather,Crime,2,4.8,2022-06-04
+107,The Matrix,Sci-Fi,1,4.9,2022-06-03
+108,The Dark Knight,Action,2,4.8,2022-06-05
+109,Inception,Sci-Fi,3,5.0,2022-06-04
+110,The Godfather,Crime,3,4.9,2022-06-06
